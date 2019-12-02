@@ -1,0 +1,15 @@
+#con{
+  background-image:url('4.jpg');
+  background-repeat:no-repeat;
+  background-size: cover;
+  height:30%;
+}
+#con1{
+  background-repeat:no-repeat;
+  background-image:url('3.jpg');
+background-size: cover;
+  height:100%;
+}
+#text{
+  font-family: algerian;
+}
